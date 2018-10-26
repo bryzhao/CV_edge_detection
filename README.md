@@ -1,2 +1,2 @@
 # Computer Vision, misc.
-Computer vision projects.
+Implemented Hough Transform from scratch.
