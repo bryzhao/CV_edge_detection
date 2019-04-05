@@ -1,2 +1,2 @@
 # Computer Vision: Hough Transform Project.
-Implemented Hough Transform from scratch, and wrote a technical report (with resulting images) using LaTeX.
+Hough Transform for edge detection. Documentation written in LaTeX.
